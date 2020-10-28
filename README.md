@@ -25,3 +25,5 @@
 - [Recursos_1](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/Libros/Valentina%20Porcu%20-%20Python%20for%20Data%20Mining%20Quick%20Syntax%20Reference-Apress%20(2019).pdf) [Recurso_2](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Introduction%20to%20Python%20Programming.pdf)
 
 [Avance I Proyecto Integrador](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/EVALUACIO%CC%81N-avance1.pdf)
+
+[Ejercicio limpieza de datos](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P1-Preparacion%20de%20datos.ipynb)
