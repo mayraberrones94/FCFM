@@ -26,7 +26,13 @@
 
 [Avance I Proyecto Integrador](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/EVALUACIO%CC%81N-avance1.pdf)
 
-[Ejercicio limpieza de datos](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P1-Preparacion%20de%20datos.ipynb)
+Ejercicios de programación herramientas de minería de datos:
 
-[Ejercicio visualización](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P2%20-%20Visualizaci%C3%B3n%20de%20datos.ipynb)
+- [Ejercicio limpieza de datos](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P1-Preparacion%20de%20datos.ipynb)
+
+- [Ejercicio visualización](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P2%20-%20Visualizaci%C3%B3n%20de%20datos.ipynb)
+
+## Fase III
+
+[Segundo avance del PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/EVALUACIO%CC%81N-avance2.pdf)
 
