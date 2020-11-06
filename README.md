@@ -28,9 +28,9 @@
 
 Ejercicios de programación herramientas de minería de datos:
 
-- [Ejercicio limpieza de datos](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P1-Preparacion%20de%20datos.ipynb)
+- [Ejercicio limpieza de datos](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/P1-Preparacion%20de%20datos.ipynb)
 
-- [Ejercicio visualización](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/P2%20-%20Visualizaci%C3%B3n%20de%20datos.ipynb)
+- [Ejercicio visualización](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/P2%20-%20Visualizacio%CC%81n%20de%20datos.ipynb)
 
 [Ejercicios de Python (Minutas de entrega](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/ejerciciopython.pdf)
 
