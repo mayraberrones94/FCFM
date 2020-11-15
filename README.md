@@ -41,8 +41,7 @@ Ejercicios de programación herramientas de minería de datos:
 
 [Minutas para el Poster Final](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20PIA.pdf)
 
-Ejemplos de Póster
-
+Ejemplos de Póster: 
 [1](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster%20Mineria%20de%20Datos%20Equipo%202%20(1).pdf)
 [2](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster%20equipo%206.pdf)
 [3](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Proyecto%20Final%20Poster.pdf)
