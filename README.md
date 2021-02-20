@@ -1,5 +1,10 @@
 # FCFM
 
+## Calendario de actividades
+
+- [Clase del Lunes](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Calendario%20de%20actividades%20Lunes.pdf)
+- [Clase del Miércoles](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Calendario%20de%20actividades%20Mie%CC%81rcoles.pdf)
+
 ## Fase I
 
 [Mapa Mental I](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Mapa%20Mental%20I.pdf)
