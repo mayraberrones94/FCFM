@@ -15,6 +15,12 @@
 
 - [Minutas de Ejercicos](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Ejercicio_python.pdf)
 
+[Práctica de limpieza de datos](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/P1-Preparacion%20de%20datos.ipynb)
+
+- [Minutas para limpieza de datos](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Practica1.pdf)
+
+[Minutas para primera entrega del PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Primer%20avance.pdf)
+
 ## Fase II
 
 
