@@ -23,6 +23,10 @@
 
 ## Fase II
 
+[Minutas para presentación de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/pres%20tecnicas.pdf)
+
+[Minutas para mini examenes de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/miniexamen.pdf)
+
 
 ## Fase III
 
