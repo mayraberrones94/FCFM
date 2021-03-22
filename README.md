@@ -29,6 +29,10 @@
 
 [Mapa Mental II](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Mapa%20mental%202.pdf) 
 
+[Práctica de visualización](https://nbviewer.jupyter.org/github/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/P2%20-%20Visualizacio%CC%81n.ipynb)
+
+- [Minuta para práctica de visualización](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/practica%20vis.pdf)
+
 [Práctica de visualización](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/practica%20vis.pdf)
 
 [Minuta para el Segundo avance del PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Segundo%20avance.pdf)
