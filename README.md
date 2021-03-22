@@ -27,7 +27,11 @@
 
 [Minutas para mini examenes de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/miniexamen.pdf)z<
 
-[Presentacion A]()  [Ejemplo]()
+[Mapa Mental II](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Mapa%20mental%202.pdf) 
+
+[Práctica de visualización](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/practica%20vis.pdf)
+
+[Minuta para el Segundo avance del PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Segundo%20avance.pdf)
 
 
 ## Fase III
