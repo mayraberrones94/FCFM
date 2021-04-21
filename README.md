@@ -40,5 +40,8 @@
 
 ## Fase III
 
+[Minuta para PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20PIA.pdf)
+
+Ejemplos de posters: [1](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster%20equipo%206.pdf)[2](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster%20Mineria%20de%20Datos%20Equipo%202%20(1).pdf)[3](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/POSTER%20PIA%20(1).pdf)[4](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster_corr_Mayra.pdf)
 
 
