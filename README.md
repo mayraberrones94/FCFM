@@ -7,7 +7,7 @@
 
 ## Fase I
 
-[Prueba 1](https://github.com/OrlandoGaSa/MIneria-de-datos-FCFM/blob/main/Mapa%20mental%20_1_1811901.pdf)
+[Prueba 1](https://github.com/mayraberrones94/FCFM/blob/master/Semana.pdf)
 
 [Mapa Mental I](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Mapa%20Mental%20I.pdf)
 
