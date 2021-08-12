@@ -6,7 +6,8 @@
 - [Clase del Miércoles](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Calendario%20de%20actividades%20Mie%CC%81rcoles.pdf)
 
 ## Fase I
-[Prueba](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Mineria-datos/Libros/Valentina%20Porcu%20-%20Python%20for%20Data%20Mining%20Quick%20Syntax%20Reference-Apress%20(2019).pdf)
+
+[Prueba 1](https://github.com/OrlandoGaSa/MIneria-de-datos-FCFM/blob/main/Mapa%20mental%20_1_1811901.pdf)
 
 [Mapa Mental I](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Mapa%20Mental%20I.pdf)
 
