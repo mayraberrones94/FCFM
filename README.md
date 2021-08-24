@@ -20,7 +20,7 @@
 
 ## Fase II
 
-[Minutas para presentación de técnicas por equipo]()
+[Minutas para presentación de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/presentecion%20tecnicas.pdf)
 
 
 
