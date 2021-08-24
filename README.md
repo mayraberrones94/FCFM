@@ -40,7 +40,7 @@
 [Minuta para el Segundo avance del PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Segundo%20avance.pdf)
 
 
-## Fase III
+## Fase 
 
 [Minuta para PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20PIA.pdf)
 
