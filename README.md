@@ -25,28 +25,8 @@
 
 ## Fase II
 
-[Minutas para presentación de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/pres%20tecnicas.pdf)
-
-[Minutas para mini examenes de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/miniexamen.pdf)
-
-[Mapa Mental II](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Mapa%20mental%202.pdf) 
-
-[Práctica de visualización](https://nbviewer.jupyter.org/github/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/P2%20-%20Visualizacio%CC%81n.ipynb)
-
-- [Minuta para práctica de visualización](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/practica%20vis.pdf)
-
-[Práctica de visualización](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/practica%20vis.pdf)
-
-[Minuta para el Segundo avance del PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Segundo%20avance.pdf)
+[Minutas para presentación de técnicas por equipo]()
 
 
-## Fase 
-
-[Minuta para PIA](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20PIA.pdf)
-
-Ejemplos de posters: [1](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster%20equipo%206.pdf)
-[2](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster%20Mineria%20de%20Datos%20Equipo%202%20(1).pdf)
-[3](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/POSTER%20PIA%20(1).pdf)
-[4](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Poster_corr_Mayra.pdf)
 
 
