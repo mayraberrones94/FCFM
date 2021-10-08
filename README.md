@@ -22,6 +22,9 @@
 
 [Minutas para presentación de técnicas por equipo](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/presentecion%20tecnicas.pdf)
 
+[Minutas para la entrega de ejercicio de técnicas]
+(https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20tecnic.pdf)
+
 
 
 
