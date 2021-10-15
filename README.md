@@ -24,6 +24,11 @@
 
 [Minutas para la entrega de ejercicio de técnicas](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20tecnic.pdf)
 
+## Fase III
+
+[Entrega de Notebook final (completo)](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20Notebook.pdf)
+
+[Proyecto final (Póster y presentación)](https://github.com/mayraberrones94/FCFM/blob/master/Clase_Mineria_2020/Evaluacio%CC%81n%20PIA.pdf)
 
 
 
