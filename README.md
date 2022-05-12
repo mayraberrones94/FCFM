@@ -6,7 +6,7 @@
 
 [Tarea 1]()
 
-[Codigo]()
+- [Codigo]()
 
-[Graficas]()
+- [Graficas]()
 
